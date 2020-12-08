@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-##### Languages
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=flat-square&logo=java)
