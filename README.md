@@ -43,10 +43,10 @@
  </table>
 </center>
 <a href="https://www.linkedin.com/in/marlonrcfranco">
- <img src="https://img.shields.io/badge/marlonrcfranco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ <img src="https://img.shields.io/badge/marlonrcfranco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&theme=radical"/>
 </>
 <a href="https://www.instagram.com/marlonrcfranco/">
- <img src="https://img.shields.io/badge/marlonrcfranco%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+ <img src="https://img.shields.io/badge/marlonrcfranco%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white&theme=radical"/>
 </>
 
 
