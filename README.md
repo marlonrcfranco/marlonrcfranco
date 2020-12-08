@@ -37,16 +37,16 @@
 <center>
  <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonrcfranco&hide=html&layout=compact&theme=default" /></td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=marlonrcfranco&theme=default&show_icons=true" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonrcfranco&hide=html&layout=compact&theme=dark" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=marlonrcfranco&theme=dark&show_icons=true" /></td>
   </tr>  
  </table>
 </center>
 <a href="https://www.linkedin.com/in/marlonrcfranco">
- <img src="https://img.shields.io/badge/marlonrcfranco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&theme=radical"/>
+ <img src="https://img.shields.io/badge/marlonrcfranco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </>
 <a href="https://www.instagram.com/marlonrcfranco/">
- <img src="https://img.shields.io/badge/marlonrcfranco%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white&theme=radical"/>
+ <img src="https://img.shields.io/badge/marlonrcfranco%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 </>
 
 
