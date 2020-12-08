@@ -25,7 +25,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![TFS](https://img.shields.io/badge/-TFS-007ACC?style=flat-square&logo=tfs&logoColor=white)
-![SVN](https://img.shields.io/badge/-subversion-809CC9?style=flat-square&logo=subversion&logoColor=white)
+![SVN](https://img.shields.io/badge/-Subversion-809CC9?style=flat-square&logo=subversion&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
