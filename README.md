@@ -4,8 +4,8 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=flat-square&logo=java)
 ![JavaSwing](https://img.shields.io/badge/-Java%20Swing-007396?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4??style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -16,7 +16,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GiLab](https://img.shields.io/badge/-Gitlab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
@@ -30,6 +29,10 @@
   </tr>  
  </table>
 </center>
+<a href="https://www.linkedin.com/in/marlonrcfranco">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</>
+
 
 <!--
 **marlonrcfranco/marlonrcfranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
