@@ -36,10 +36,10 @@
 
 
 <a href="https://github.com/marlonrcfranco/github-readme-stats">
-  <img align="center" width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonrcfranco&hide=html&layout=compact&theme=tokyonight&hide_border=true" />
+  <img align="center" width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonrcfranco&hide=html&layout=compact&theme=tokyonight&hide_border=false" />
 </a>
 <a href="https://github.com/marlonrcfranco/convoychat">
-  <img align="center" width="440px" src="https://github-readme-stats.vercel.app/api?username=marlonrcfranco&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img align="center" width="440px" src="https://github-readme-stats.vercel.app/api?username=marlonrcfranco&theme=tokyonight&show_icons=true&hide_border=false" />
 </a>
 <br>
 <a href="https://www.linkedin.com/in/marlonrcfranco">
