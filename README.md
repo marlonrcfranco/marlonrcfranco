@@ -31,7 +31,7 @@
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-2496ED?style=flat-square&logo=Jira&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Tomcat](https://img.shields.io/badge/-tomcat-D77310?style=flat-square&logo=apache&logoColor=white)
+![Tomcat](https://img.shields.io/badge/-Tomcat-D77310?style=flat-square&logo=apache&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 
 <center>
