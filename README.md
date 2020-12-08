@@ -37,8 +37,8 @@
 <center>
  <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonrcfranco&hide=html&layout=compact&theme=tokyonight" /></td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=marlonrcfranco&theme=tokyonight&show_icons=true" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonrcfranco&hide=html&layout=compact&theme=tokyonight&hide_border=true" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=marlonrcfranco&theme=tokyonight&show_icons=true&hide_border=true" /></td>
   </tr>  
  </table>
 </center>
