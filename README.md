@@ -34,21 +34,20 @@
 ![Tomcat](https://img.shields.io/badge/-Tomcat-D77310?style=flat-square&logo=apache&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 
-<center>
- <table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonrcfranco&hide=html&layout=compact&theme=tokyonight&hide_border=true" /></td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=marlonrcfranco&theme=tokyonight&show_icons=true&hide_border=true" /></td>
-  </tr>  
- </table>
-</center>
+
+<a href="https://github.com/marlonrcfranco/github-readme-stats">
+  <img align="center" width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonrcfranco&hide=html&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/marlonrcfranco/convoychat">
+  <img align="center" width="440px" src="https://github-readme-stats.vercel.app/api?username=marlonrcfranco&theme=tokyonight&show_icons=true&hide_border=true" />
+</a>
+<br>
 <a href="https://www.linkedin.com/in/marlonrcfranco">
  <img src="https://img.shields.io/badge/marlonrcfranco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </>
 <a href="https://www.instagram.com/marlonrcfranco/">
  <img src="https://img.shields.io/badge/marlonrcfranco%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 </>
-
 
 <!--
 **marlonrcfranco/marlonrcfranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
